@@ -1,2 +1,2 @@
 # ArthurMelton.com
-This is my persinal portfolio site!
+This is my personal portfolio site!
